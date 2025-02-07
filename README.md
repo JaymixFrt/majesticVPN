@@ -2,6 +2,7 @@
 
 ## 🎩Description
 MajesticVPN is a powerful and reliable solution for ensuring your online security and privacy. With MajesticVPN, you can browse the internet safely and anonymously, protecting your data from prying eyes and gaining access to content blocked in your region.
+![photo_2025-02-07_18-39-34](https://github.com/user-attachments/assets/6b355720-f7a8-4195-9cad-56c9d7e15d25)
 
 ## 💫Key Features
 - **Secure Connection:** Utilize military-grade encryption to safeguard your data.
